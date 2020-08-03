@@ -1,5 +1,5 @@
 ###Many thanks for dr. Christoph Scheuch who kindly provide the functions I am using. For more details, please visit https://christophscheuch.github.io/. Based on the functions, 
-##I add some codes to preceed the Fama-Macbeth regression controlling for more one independent variables.
+##I add some codes to preceed the Fama-Macbeth regression controlling for more than one independent variables.
 
 ##set footpath
 setwd("D:/replication of Bali/chapter 13 liquidity/fama-macbeth regression/")
